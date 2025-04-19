@@ -1,11 +1,17 @@
 # Home-Assignment 4
 
 CS5720 Home Assignment 4
+
 Student Name: Dama Vamsi
+
 Student ID: 700771673
+
 Course: Neural Networks and Deep Learning (CS5720)
+
 Semester: Spring 2025
+
 University: University of Central Missouri
+
 Department: Computer Science 
 
 Overview
